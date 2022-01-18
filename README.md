@@ -1,5 +1,7 @@
 # Shopify BackEnd Developer Intern Challenge - Summer 2022
 
+![alt text](https://github.com/VrajChokshi31/-Shopify-Backend-Developer-Intern-Challenge/blob/main/shopify.jpg?raw=true)
+
 This repo includes the project made by me for the shopify intern challenge. It requires me to build an inventory tracking web application which can implement the basic CRUD functionality.
 The main aim of the web application is that one should able to:-
 
