@@ -51,6 +51,7 @@ You can now see that the application is working.
 ##Usage
 By following the above instructions and running on the localhost we get the screen as below.
 
+![alt text](https://github.com/VrajChokshi31/-Shopify-Backend-Developer-Intern-Challenge/blob/main/Screenshot%20(23).png?raw=true)
 
 
 We can see various tabs like Add Item, View Item, Modify Item, Delete Item and Export.
