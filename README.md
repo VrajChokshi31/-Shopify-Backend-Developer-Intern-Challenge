@@ -48,7 +48,7 @@ Go to the web browser and type:- http://localhost:8000/shop/
 
 You can now see that the application is working.
 
-##Usage
+## Usage
 By following the above instructions and running on the localhost we get the screen as below.
 
 
