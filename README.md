@@ -51,20 +51,36 @@ You can now see that the application is working.
 ##Usage
 By following the above instructions and running on the localhost we get the screen as below.
 
-![alt text](https://github.com/VrajChokshi31/-Shopify-Backend-Developer-Intern-Challenge/blob/main/Screenshot%20(23).png?raw=true)
 
+https://github.com/VrajChokshi31/-Shopify-Backend-Developer-Intern-Challenge/blob/main/Screenshot%20(23).png
 
 We can see various tabs like Add Item, View Item, Modify Item, Delete Item and Export.
 
+![alt text](https://github.com/VrajChokshi31/-Shopify-Backend-Developer-Intern-Challenge/blob/main/Screenshot%20(23).png?raw=true)
+
 The Add Item requires to fill the form which includes which as the serial number as primary key.
+
+![alt text](https://github.com/VrajChokshi31/-Shopify-Backend-Developer-Intern-Challenge/blob/main/Screenshot%20(24).png?raw=true)
 
 The View Item tab opens the all the records that have been added as shown below.
 
+
+![alt text](https://github.com/VrajChokshi31/-Shopify-Backend-Developer-Intern-Challenge/blob/main/Screenshot%20(25).png?raw=true)
+
 The Modify Item requires the serial number and other columns which we need to modify.
+
+
+![alt text](https://github.com/VrajChokshi31/-Shopify-Backend-Developer-Intern-Challenge/blob/main/Screenshot%20(26).png?raw=true)
 
 The Delete Item requires the serial number of the data we need to delete.
 
+
+![alt text](https://github.com/VrajChokshi31/-Shopify-Backend-Developer-Intern-Challenge/blob/main/Screenshot%20(27).png?raw=true)
+
 The Export tab converts our data to a csv file. This the feature I have implemented from all the features given in the instructions.
+
+
+![alt text](https://github.com/VrajChokshi31/-Shopify-Backend-Developer-Intern-Challenge/blob/main/Screenshot%20(28).png?raw=true)
 
 ## Contributor
 Vraj Chokshi.
